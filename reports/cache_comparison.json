@@ -5,9 +5,9 @@
     "total_requests": 100,
     "availability": 1.0,
     "error_rate": 0.0,
-    "latency_p50_ms": 214.44,
-    "latency_p95_ms": 238.65,
-    "latency_p99_ms": 240.51,
+    "latency_p50_ms": 214.49,
+    "latency_p95_ms": 238.76,
+    "latency_p99_ms": 240.39,
     "fallback_success_rate": 0.0,
     "cache_hit_rate": 0.0,
     "circuit_open_count": 0,
@@ -15,8 +15,8 @@
     "estimated_cost": 0.05771,
     "estimated_cost_saved": 0.0,
     "concurrency": 8,
-    "wall_clock_duration_ms": 2753.56,
-    "throughput_rps": 36.32,
+    "wall_clock_duration_ms": 2754.03,
+    "throughput_rps": 36.31,
     "route_counts": {
       "primary": 100
     },
@@ -33,18 +33,18 @@
     "total_requests": 100,
     "availability": 1.0,
     "error_rate": 0.0,
-    "latency_p50_ms": 1.36,
-    "latency_p95_ms": 233.59,
-    "latency_p99_ms": 239.89,
+    "latency_p50_ms": 2.56,
+    "latency_p95_ms": 233.76,
+    "latency_p99_ms": 241.78,
     "fallback_success_rate": 0.0,
     "cache_hit_rate": 0.51,
     "circuit_open_count": 0,
     "recovery_time_ms": null,
     "estimated_cost": 0.02883,
-    "estimated_cost_saved": 0.02881,
+    "estimated_cost_saved": 0.02609,
     "concurrency": 8,
-    "wall_clock_duration_ms": 1460.77,
-    "throughput_rps": 68.46,
+    "wall_clock_duration_ms": 1456.53,
+    "throughput_rps": 68.66,
     "route_counts": {
       "primary": 49,
       "cache_hit": 51
@@ -60,8 +60,8 @@
     "scenario_details": {}
   },
   "delta": {
-    "latency_p50_ms": -213.08,
-    "latency_p95_ms": -5.06,
+    "latency_p50_ms": -211.92,
+    "latency_p95_ms": -5.0,
     "estimated_cost": -0.02888,
     "cache_hit_rate": 0.51
   }
